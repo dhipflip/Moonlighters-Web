@@ -12,7 +12,7 @@ import {
   graphql
 } from "gatsby"
 
-import Header from "./header/header"
+import Header from "./header"
 import "./layout.css"
 
 const Layout = ({
