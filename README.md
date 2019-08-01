@@ -4,3 +4,6 @@
   </a>
 </p>
 
+
+
+ssh-keygen -t rsa -b 4096 -C "daybid@gmail.com"
