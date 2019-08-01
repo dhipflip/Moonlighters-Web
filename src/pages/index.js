@@ -10,10 +10,7 @@ const IndexPage = () => (
     <SEO title="Moonlighters" />
     <h1>Moonlighters</h1>
     <p>This is the new Moonlighters website.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <Link to="/contact/">Contact Page</Link>
   </Layout>
 )
 
