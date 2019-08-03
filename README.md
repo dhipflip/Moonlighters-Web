@@ -4,5 +4,5 @@
   </a>
 </p>
 <p align="center">
-We Build Web Apps
+We Build Web Apps.
 </p>
