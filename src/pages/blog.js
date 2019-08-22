@@ -1,16 +1,15 @@
 import React from "react"
 import { Link } from "gatsby"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const ContactPage = () => (
+const BlogPage = () => (
   <Layout>
-    <SEO title="Contact" />
-    <h1>Contact Us</h1>
-    <p>We're ready</p>
+    <SEO title="Moonlighters Blog" />
+    <h1>We have a lot to say</h1>
+    <p>and here is where we want to share.</p>
     <Link to="/">Back Home</Link>
   </Layout>
 )
 
-export default ContactPage
+export default BlogPage
