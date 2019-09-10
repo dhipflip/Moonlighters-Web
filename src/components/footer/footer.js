@@ -1,6 +1,6 @@
 import React from "react"
-import styles from "./footer.module.css"
-import logo from '../../images/moonlighters-logo-light.svg'
+import styles from "./Footer.module.scss"
+import logo from "../../images/moonlighters-logo-light.svg"
 
 export const Footer = () => {
   return (
