@@ -1,11 +1,11 @@
 import React from "react"
 import { Link } from "gatsby"
-import Layout from "../components/layout"
-import { Hero } from "../components/hero/hero.js"
-import { Feature } from "../components/feature/feature.js"
-import { Contact } from "../components/contact/contact.js"
-import "../styles/layout.css"
-import SEO from "../components/seo"
+import { Layout } from "../components/Layout/Layout"
+import { Hero } from "../components/Hero/Hero.js"
+import { Feature } from "../components/Feature/Feature.js"
+import { Contact } from "../components/Contact/Contact.js"
+import "../components/Layout/Layout"
+import SEO from "../utils/seo"
 
 const IndexPage = () => (
   <Layout>

@@ -1,5 +1,5 @@
-import React from "./node_modules/react"
-import styles from "./header.module.css"
+import React from "react"
+import styles from "./Header.module.scss"
 import logo from '../../images/moonlighters-logo-light.svg'
 
 export const Header = () => {
