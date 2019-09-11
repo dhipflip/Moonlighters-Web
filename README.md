@@ -20,6 +20,7 @@ to spend our _spare time_ searching for and working on Web Application passion p
 ## 🎓 Info About Our Tech Stack
 
 **React, Node, MongoDB**
+
 _Modern Web Technologies_ using a common language that provide:
 
 1. Better team efficiency with less resources.
