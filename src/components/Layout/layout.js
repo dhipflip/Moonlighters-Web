@@ -1,17 +1,17 @@
-import React from "react"
-import PropTypes from "prop-types"
-import { Header } from "../Header/Header"
-import { Footer } from "../Footer/Footer"
-import styles from "../Layout/Layout.module.scss"
+import React from "./node_modules/react"
+import PropTypes from "./node_modules/prop-types"
+import { Header } from "../header/header"
+import { Footer } from "../footer/footer"
+import styles from "./layout.module.scss"
 
 export const Layout = ({ children }) => {
-   return (
+  return (
     <>
-    <Header/>
-      <div className =  {styles.body}>
+      <Header />
+      <div className={styles.body}>
         <main>{children}</main>
       </div>
-    <Footer/>
+      <Footer />
     </>
   )
 }
@@ -19,4 +19,3 @@ export const Layout = ({ children }) => {
 Layout.propTypes = {
   children: PropTypes.node.isRequired,
 }
-
