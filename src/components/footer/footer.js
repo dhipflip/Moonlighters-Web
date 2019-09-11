@@ -5,12 +5,12 @@ import logo from "../../images/moonlighters-logo-light.svg"
 export const Footer = () => {
   return (
     <>
-    <header>
-      <div className={styles.footer}>
-      <img src={logo} alt='Moonlighters Logo'/>
-      © {new Date().getFullYear()}, Moonlighters.io
+    <footer className={styles.footer}>
+      <div>
+        <img src={logo} alt='Moonlighters Logo' className={styles.logo}/>
+        <div className={styles.date}> © {new Date().getFullYear()}, Moonlighters.io</div>
       </div>
-    </header>
+    </footer>
     </>
   )
 }

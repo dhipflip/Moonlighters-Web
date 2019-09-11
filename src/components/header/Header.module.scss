@@ -1,7 +1,15 @@
 .header {
   width: 100%;
-  background-color: black;
+  height: 5rem;
   margin: 0 auto;
   padding: 0px 1.0875rem 1.45rem;
   padding-top: 0px;
+  background-color: #343c41;
+  background-image: linear-gradient(#0b0d0f, #343c41);
+  overflow-x: hidden;
+}
+
+.logo {
+  margin: 2rem 0rem 0rem 0.5rem;
+  width: 225px;
 }

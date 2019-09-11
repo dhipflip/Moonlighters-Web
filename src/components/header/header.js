@@ -5,9 +5,9 @@ import logo from '../../images/moonlighters-logo-light.svg'
 export const Header = () => {
   return (
     <>
-    <header>
-      <div className={styles.header}>
-      <img src={logo} alt='Moonlighters Logo'/>
+    <header className={styles.header}>
+      <div>
+      <img src={logo} alt='Moonlighters Logo' className={styles.logo}/>
       </div>
     </header>
     </>
