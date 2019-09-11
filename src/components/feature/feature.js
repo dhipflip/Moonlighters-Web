@@ -8,7 +8,7 @@ export const Feature = () => {
         <h1>We Are Moonlighters.</h1>
         <p>
           A group of Hard Working Professionals who enjoy our full-time Softare
-          Engineering day jobs so much... that we actually wanted to spend our{" "}
+          Engineering day jobs so much... that we actually wanted to spend our
           <em>spare time</em> searching for and working on Web Application
           passion projects.
         </p>
@@ -20,7 +20,6 @@ export const Feature = () => {
           about your project and determine if we&apos;re right for the job.
         </p>
         <p>
-          {" "}
           Once partnered we&apos;ll work with you to outline the process, review
           any resources you want to share and then the fun really begins...
           designing, building and hosting your app!
