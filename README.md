@@ -39,6 +39,6 @@ Once partnered we&apos;ll work with you to outline the process, review
 any resources you want to share and then the fun really begins...
 _designing, building and hosting your app!_
 
-_Feel free to contact us at: [Moonlighters.io](https://www.moonlighters.io/contact/)._
+**We are _very_ responsive** _Feel free to contact us at: [Moonlighters.io/contact](https://www.moonlighters.io/contact/)._
 
 <!-- MOONLIGHTERS-CONTENT:END -->
